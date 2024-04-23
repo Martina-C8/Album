@@ -36,3 +36,11 @@ footer {
     text-align: center;
 }
 
+.gif {
+    border-radius: 20px;
+}
+
+.card-body p:nth-of-type(2) {
+    font-weight: bold;
+}
+
