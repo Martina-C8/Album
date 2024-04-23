@@ -42,5 +42,6 @@ footer {
 
 .card-body p:nth-of-type(2) {
     font-weight: bold;
+    text-decoration: underline;
 }
 
